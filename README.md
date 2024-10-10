@@ -1,4 +1,4 @@
-# Veroljub Djordjevic (Developer Portfolio)
+# Portfolio
 
 
 **PWA updated** to the *portfolio* and **loading speed** optimized 
